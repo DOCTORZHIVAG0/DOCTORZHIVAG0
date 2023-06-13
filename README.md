@@ -92,7 +92,6 @@
 </div> 
 
 [MySQL](https://github.com/DOCTORZHIVAG0/SQL/)
-
 --------------------------------------------------
 
 <div>
