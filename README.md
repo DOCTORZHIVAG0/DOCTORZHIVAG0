@@ -108,10 +108,9 @@
 [Charles Proxy](https://github.com/DOCTORZHIVAG0/Charles-Proxy/)
 ---------------------------------------------------
 
-✏️ Check-lists:
-
-https://github.com/DOCTORZHIVAG0/Checklists.git
+✏️ [Check-lists](https://github.com/DOCTORZHIVAG0/Checklists/)
 ---------------------------------------------------
+
 ✏️ Test-cases:
 
 https://github.com/DOCTORZHIVAG0/Test-cases.git
