@@ -87,34 +87,22 @@
  
  ### 📁 Тестовые артефакты:
 
- <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp         
-</div> 
-
-[MySQL](https://github.com/DOCTORZHIVAG0/SQL/)
+✏️ [MySQL](https://github.com/DOCTORZHIVAG0/SQL/)
 --------------------------------------------------
 
-<div>
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp     
-</div>
-
-[Postman](https://github.com/DOCTORZHIVAG0/Postman/)
+✏️ [Postman](https://github.com/DOCTORZHIVAG0/Postman/)
 --------------------------------------------------
 
-<div>
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp     
-</div> 
-
-[Charles Proxy](https://github.com/DOCTORZHIVAG0/Charles-Proxy/)
+✏️ [Charles Proxy](https://github.com/DOCTORZHIVAG0/Charles-Proxy/)
 ---------------------------------------------------
 
-✏️[Check-lists](https://github.com/DOCTORZHIVAG0/Checklists/)
+✏️ [Check-lists](https://github.com/DOCTORZHIVAG0/Checklists/)
 ---------------------------------------------------
 
-✏️[Test-cases](https://github.com/DOCTORZHIVAG0/Test-cases/)
+✏️ [Test-cases](https://github.com/DOCTORZHIVAG0/Test-cases/)
 ---------------------------------------------------
 
-✏️[Bag-reports](https://github.com/DOCTORZHIVAG0/Bag-reports/)
+✏️ [Bag-reports](https://github.com/DOCTORZHIVAG0/Bag-reports/)
 ---------------------------------------------------
 
 
