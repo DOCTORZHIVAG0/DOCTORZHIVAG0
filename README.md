@@ -111,17 +111,13 @@
 ✏️ [Check-lists](https://github.com/DOCTORZHIVAG0/Checklists/)
 ---------------------------------------------------
 
-✏️ Test-cases:
-
-https://github.com/DOCTORZHIVAG0/Test-cases.git
+✏️ [Test-cases](https://github.com/DOCTORZHIVAG0/Test-cases/)
 ---------------------------------------------------
-✏️ Bag-reports:
 
-https://github.com/DOCTORZHIVAG0/Bag-reports.git
+✏️ [Bag-reports](https://github.com/DOCTORZHIVAG0/Bag-reports/)
 ---------------------------------------------------
 
 
-[MySQL](https://github.com/DOCTORZHIVAG0/SQL/)
 
 
 
