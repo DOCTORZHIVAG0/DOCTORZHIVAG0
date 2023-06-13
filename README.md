@@ -89,9 +89,8 @@
 
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp         
---------------------------------------------------
 </div>  
-[MySQL](https://github.com/DOCTORZHIVAG0/SQL/)
+--------------------------------------------------
 
 <div>
   <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp        Postman:
