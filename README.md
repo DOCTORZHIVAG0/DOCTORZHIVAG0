@@ -88,9 +88,7 @@
  ### 📁 Тестовые артефакты:
 
  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp         MySQL:  
-
-  https://github.com/DOCTORZHIVAG0/SQL.git
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp         [MySQL](https://github.com/DOCTORZHIVAG0/SQL/)
 --------------------------------------------------
   </div>  
 
@@ -121,10 +119,7 @@ https://github.com/DOCTORZHIVAG0/Bag-reports.git
 ---------------------------------------------------
 
 
-[MySQL](https://github.com/DOCTORZHIVAG0/SQL/)
 
-
-https://github.com/DOCTORZHIVAG0/SQL
 
 
 
