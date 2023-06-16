@@ -11,7 +11,7 @@
 ---
 
 ### 📁 Резюме
-[MyCV](https://github.com/DOCTORZHIVAG0/SQL/)
+[My CV](https://github.com/DOCTORZHIVAG0/MyCV/)
 
 ---
 
