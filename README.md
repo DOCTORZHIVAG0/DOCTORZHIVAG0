@@ -10,6 +10,11 @@
 
 ---
 
+### 📁 Резюме
+[MyCV](https://github.com/DOCTORZHIVAG0/SQL/)
+
+---
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
